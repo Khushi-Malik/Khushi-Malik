@@ -26,7 +26,7 @@ I am a second-year Computer Science and Mathematics student at the University of
 - 📫 How to reach me:  My <a href="https://www.linkedin.com/in/khushi-malik19/">Linkedin,</a> feel free to connect!
 - 📑 Find my published research at my <a href="https://scholar.google.com/citations?user=o8zvj34AAAAJ&hl=en">Google Scholar</a> profile
 - My hobbies include drawing and painting 🎨 (charcoal is my favorite medium), playing soccer ⚽, reading books (Percy Jackson 🔱 is my favorite), and listening to music 🎧 —it’s always playing in the background, and watching movies 🎥.
-- ⚡ Fun fact: My name mean happiness, so here is a joke in hopes that it brings a smile 😄
+- ⚡ Fun fact: My name means happiness, so here's a joke to hopefully bring a smile to your face 😄
   <p align="center">
   <a href="https://github.com/khushi-malik/"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></a>
   </p> 
