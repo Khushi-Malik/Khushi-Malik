@@ -33,8 +33,6 @@ I am a second-year Computer Science and Mathematics student at the University of
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
-
-<h3 align="left">Tech Stack:</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
