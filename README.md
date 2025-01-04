@@ -57,10 +57,8 @@ I am a second-year Computer Science and Mathematics student at the University of
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-Malik&count=10" alt="Top Languages" height="205"/>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Khushi-Malik&theme=default&count=10" alt="Top Languages by Repo" height="140"/>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Khushi-Malik&" alt="Khushi-Malik" height="190"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-Malik&count=10" alt="Top Languages" height="250"/></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Khushi-Malik&" alt="Khushi-Malik" height="250"/></p>
 
 <br><br>
 <!--
