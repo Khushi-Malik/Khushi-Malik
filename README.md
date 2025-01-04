@@ -60,10 +60,10 @@ I am a second-year Computer Science and Mathematics student at the University of
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Khushi-Malik&" alt="Khushi-Malik"/></p>
 
 <br><br>
-<!--
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khushi-Malik&theme=github" alt="Contribution Graph" height="300" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khushi-Malik&theme=github" alt="Contribution Graph"/>
 </p>
--->
+
 
 
