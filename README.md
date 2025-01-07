@@ -57,8 +57,11 @@ I am a second-year Computer Science and Mathematics student at the University of
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-Malik&count=10" alt="Top Languages"/></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Khushi-Malik&" alt="Khushi-Malik"/></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Khushi-Malik&" alt="Khushi-Malik" /></p>
 
+<!--
+<p><img align="right" src="https://github-contribution-stats.vercel.app/api/?username=Khushi-Malik" alt="Contribution Graph"/></p>
+-->
 <br><br>
 
 <p align="center">
