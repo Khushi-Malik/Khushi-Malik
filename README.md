@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF5733&width=435&lines=Welcome+to+my+GitHub+profile." alt="Typing Animation" />
 </p>
-
+-->
 <!--
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Khushi-Malik&label=Profile%20Views&color=ebb434&style=for-the-badge" alt="Profile Views" width="100" height="20" />
