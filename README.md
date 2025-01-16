@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 I am a second-year Computer Science and Mathematics student at the University of Toronto. I’m passionate about learning, problem-solving, and exploring technology through research and hands-on experiences. My interests include data science, algorithms, machine learning, software development, cybersecurity, and CS Education. I aspire to build impactful and reliable applications and AI models that make a difference in people's lives.
 
 - 📑 Find my published research at my <a href="https://scholar.google.com/citations?user=o8zvj34AAAAJ&hl=en">Google Scholar</a> profile
-- My hobbies include drawing 🎨 (charcoal is my favorite medium), playing soccer ⚽, reading books (Percy Jackson 🔱 is my favorite), listening to music 🎧, and watching movies 🎥.
 - ⚡ Fun fact: My name means happiness, so here's a joke 😄
   <p align="center">
   <a href="https://github.com/khushi-malik/"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></a>
