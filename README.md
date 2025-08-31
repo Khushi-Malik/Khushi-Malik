@@ -61,7 +61,7 @@ I am a Computer Science and Mathematics student at the University of Toronto. Iâ
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgressql" width="40" height="40"/>
   <!-- Custom icons for Autodesk and Arduino -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/> 
-  <img src="https://brand.autodesk.com/app/uploads/2021/04/symbol-1.svg" alt="Autodesk" width="50" height="50"/>
+<!--   <img src="https://brand.autodesk.com/app/uploads/2021/04/symbol-1.svg" alt="Autodesk" width="50" height="50"/> -->
   <!-- Additional Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
