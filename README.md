@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 I am a Computer Science and Mathematics student at the University of Toronto. I’m passionate about learning, problem-solving, and exploring technology through research and hands-on experiences. My interests include data science, algorithms, machine learning, software development, cybersecurity, and CS Education. I aspire to build impactful and reliable applications and AI models that make a difference in people's lives.
 
+- Learn more about me from my <a href="https://khushi-malik.vercel.app/"> Portfolio</a>!
 - 📑 Find my published research at my <a href="https://scholar.google.com/citations?user=o8zvj34AAAAJ&hl=en">Google Scholar</a> profile
 - ⚡ Fun fact: My name means happiness, so here's a joke 😄
   <p align="center">
