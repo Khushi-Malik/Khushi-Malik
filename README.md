@@ -72,7 +72,10 @@ I am a Computer Science and Mathematics student at the University of Toronto. Iâ
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-Malik&count=10" alt="Top Languages"/></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-Malik&count=10" alt="Top Languages"/></p> -->
+
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Khushi-Malik&layout=compact" alt="Top Languages"/></p>
+<!-- <p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Khushi-Malik&theme=default" alt="Top Languages by commit"/></p> -->
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Khushi-Malik&" alt="Khushi-Malik" /></p>
 
 <!--
