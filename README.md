@@ -73,10 +73,15 @@ I am a Computer Science and Mathematics student at the University of Toronto. Iâ
 </p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-Malik&count=10" alt="Top Languages"/></p> -->
-
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Khushi-Malik&layout=compact" alt="Top Languages"/></p>
 <!-- <p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Khushi-Malik&theme=default" alt="Top Languages by commit"/></p> -->
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Khushi-Malik&" alt="Khushi-Malik" /></p>
+
+<!-- <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Khushi-Malik&layout=compact" alt="Top Languages"/></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Khushi-Malik&" alt="Khushi-Malik" /></p> -->
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Khushi-Malik&layout=compact" alt="Top Languages" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushi-Malik" alt="GitHub Streak" width="45%"/>
+</p>
 
 <!--
 <p><img align="right" src="https://github-contribution-stats.vercel.app/api/?username=Khushi-Malik" alt="Contribution Graph"/></p>
