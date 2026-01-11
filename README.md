@@ -79,8 +79,8 @@ I am a Computer Science and Mathematics student at the University of Toronto. Iâ
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Khushi-Malik&" alt="Khushi-Malik" /></p> -->
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Khushi-Malik&layout=compact" alt="Top Languages" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushi-Malik" alt="GitHub Streak" width="45%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Khushi-Malik&layout=compact" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-streak-stats-seven-beta-44.vercel.app?user=Khushi-Malik&theme=meta-light" alt="GitHub Streak" width="50%"/>
 </p>
 
 <!--
