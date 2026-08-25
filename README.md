@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </p>
 -->
 
-I am a Computer Science and Mathematics student at the University of Toronto. Iâ€™m passionate about learning, problem-solving, and exploring technology through research and hands-on experiences. My interests include data science, algorithms, machine learning, software development, cybersecurity, and CS Education. I aspire to build impactful and reliable applications and AI models that make a difference in people's lives.
+I am a Master's Biomedical Engineering Student at the University of Toronto, passionate about exploring technology through hands-on research. My goal is to build reliable, impactful AI models that make a tangible difference in patient care. Currently, I am focused on Medical Robotics and Computer Vision in collaboration with Mount Sinai Hospital, Toronto.
 
 - Learn more about me from my <a href="https://khushi-malik.vercel.app/"> Portfolio</a>!
 - ðŸ“‘ Find my published research at my <a href="https://scholar.google.com/citations?user=o8zvj34AAAAJ&hl=en">Google Scholar</a> profile
@@ -72,7 +72,7 @@ I am a Computer Science and Mathematics student at the University of Toronto. Iâ
 </p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-Malik&count=10" alt="Top Languages"/></p> -->
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Khushi-Malik&layout=compact" alt="Top Languages" width="40%"/>
   <img src="https://github-readme-streak-stats-seven-beta-44.vercel.app?user=Khushi-Malik&theme=meta-light" alt="GitHub Streak" width="50%"/>
@@ -81,6 +81,6 @@ I am a Computer Science and Mathematics student at the University of Toronto. Iâ
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khushi-Malik&theme=github" alt="Contribution Graph"/>
 </p>
-
+-->
 
 
